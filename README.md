@@ -9,9 +9,8 @@ contains the units sold in over 800,000 sales transactions from January 2017 to 
 #### Inventory
 contains over 1,500 records that represent the stock on hand of each product in each store at a point in time (Oct 1, 2018)<br>
 
-This project employs the entire business intelligence workflow: connecting and shaping the data, building a relational model, adding calculated fields and measures, and designing an interactive report.<br>
-
-### <br>Key Insights:
+This project employs the entire business intelligence workflow: connecting and shaping the data, building a relational model, adding calculated fields and measures, and designing an interactive report.
+### Key Insights:
 1. Among all the product categories, Toys and Electronics, combined, account for more than 50% of the total profit.
 2. The customers are more inclined to purchase the average and expensive items, i.e., products with price greater than $5, driving over 90% of the total sales and profit.
 3. Among the top selling products, Colorbuds records the hightest profit.
